@@ -14,3 +14,6 @@ SGN Assignments. Politecnico di Milano, Academic Year 2021-2022.
      
      
 Use of NASA/NAIF SPICE Toolkit and SGP4.
+
+If you are interested in the written reports of the two assignments feel free to contact me on LinkedIn:
+https://www.linkedin.com/in/gian-marco-paldino/
